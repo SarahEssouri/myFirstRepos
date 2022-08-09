@@ -1,0 +1,2 @@
+# myFirstRepos
+for training purpose
