@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 "This is some content to mess with" 
 "content to append" 
+=======
+"totally different content to merge later" 
+>>>>>>> new_branch_to_save_later
+New text 
