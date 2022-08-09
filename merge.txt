@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-"This is some content to mess with" 
-"content to append" 
-=======
-"totally different content to merge later" 
-<<<<<<< HEAD
->>>>>>> new_branch_to_save_later
-=======
->>>>>>> new_branch_to_save_later
-New text 
 help 
+help2 
+
